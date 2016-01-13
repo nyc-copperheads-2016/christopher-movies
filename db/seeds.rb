@@ -9,7 +9,8 @@ content = File.read(Rails.root.join('db', 'c_lee.json'))
 hash = JSON.parse(content)
 years = hash["cast"].map {|movie| movie["release_date"][0,4] }.uniq
 months = hash["cast"].map {|movie| movie["release_date"][0,7] }.uniq
-years.each{ |y| Folder.create!(name: y.to_s) }
+root = Folder.create!(name: 'movies')
+years.each{ |y| root.children.create!(name: y.to_s) }
 months.each do |m|
   year = m[0,4]
   parent = Folder.find_by(name: year.to_s)
