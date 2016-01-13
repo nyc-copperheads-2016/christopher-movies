@@ -1,0 +1,5 @@
+<li><%= folder.name %>
+<% if folder.children.any? %>
+  <ul><%= render folder.sub_folders %></ul>
+<% end %>
+</li>
