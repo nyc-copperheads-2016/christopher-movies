@@ -1,0 +1,2188 @@
+{
+  "cast": [
+    {
+      "adult": false,
+      "character": "Count Dooku",
+      "credit_id": "52fe431fc3a36847f803bdbf",
+      "id": 1894,
+      "original_title": "Star Wars: Episode II - Attack of the Clones",
+      "poster_path": "/2vcNFtrZXNwIcBgH5e2xXCmVR8t.jpg",
+      "release_date": "2002-05-15",
+      "title": "Star Wars: Episode II - Attack of the Clones"
+    },
+    {
+      "adult": false,
+      "character": "Count Dooku",
+      "credit_id": "52fe431fc3a36847f803beef",
+      "id": 1895,
+      "original_title": "Star Wars: Episode III - Revenge of the Sith",
+      "poster_path": "/tgr5Pdy7ehZYBqBkN2K7Q02xgOb.jpg",
+      "release_date": "2005-05-17",
+      "title": "Star Wars: Episode III - Revenge of the Sith"
+    },
+    {
+      "adult": false,
+      "character": "King Haggard (voice)",
+      "credit_id": "52fe43369251416c75007b0d",
+      "id": 10150,
+      "original_title": "The Last Unicorn",
+      "poster_path": "/m8HUHltLUdPBzsMKY3U7evgkQVX.jpg",
+      "release_date": "1982-11-19",
+      "title": "The Last Unicorn"
+    },
+    {
+      "adult": false,
+      "character": "First High Councilor",
+      "credit_id": "52fe4348c3a36847f80486c7",
+      "id": 2268,
+      "original_title": "The Golden Compass",
+      "poster_path": "/mOF2xK2xDgbpOCPgXreM4vfw9dC.jpg",
+      "release_date": "2007-12-07",
+      "title": "The Golden Compass"
+    },
+    {
+      "adult": false,
+      "character": "Burgomaster",
+      "credit_id": "52fe4364c3a36847f8050ced",
+      "id": 2668,
+      "original_title": "Sleepy Hollow",
+      "poster_path": "/yaX0WQstEi2akQXffoJUxyOsZkj.jpg",
+      "release_date": "1999-11-18",
+      "title": "Sleepy Hollow"
+    },
+    {
+      "adult": false,
+      "character": "Pharao Ramses",
+      "credit_id": "52fe4367c3a36847f8051d89",
+      "id": 2719,
+      "original_title": "Moses",
+      "poster_path": "/c4JuSbSUIsdlcWusmejP9GDnkCY.jpg",
+      "release_date": "1995-12-20",
+      "title": "Moses"
+    },
+    {
+      "adult": false,
+      "character": "Rochefort",
+      "credit_id": "52fe4375c3a36847f8055aa9",
+      "id": 2926,
+      "original_title": "The Three Musketeers",
+      "poster_path": "/wyip1inNWnfwwfyX4pGYCtyaZn7.jpg",
+      "release_date": "1973-12-11",
+      "title": "The Three Musketeers"
+    },
+    {
+      "adult": false,
+      "character": "Paul Allen",
+      "credit_id": "52fe437dc3a36847f80581f7",
+      "id": 3025,
+      "original_title": "The Two Faces of Dr. Jekyll",
+      "poster_path": "/uBHuiwWLrlYwBgVj7RQMHgIgubN.jpg",
+      "release_date": "1960-10-24",
+      "title": "The Two Faces of Dr. Jekyll"
+    },
+    {
+      "adult": false,
+      "character": "Father Pergado / Zindar",
+      "credit_id": "52fe437ec3a36847f80584bb",
+      "id": 3030,
+      "original_title": "End of the World",
+      "poster_path": "/gL8aFUP6nTd6aZ3yEQ7ejecdDo9.jpg",
+      "release_date": "1977-08-01",
+      "title": "End of the World"
+    },
+    {
+      "adult": false,
+      "character": "The Creature",
+      "credit_id": "52fe4383c3a36847f8059d2f",
+      "id": 3079,
+      "original_title": "The Curse of Frankenstein",
+      "poster_path": "/f4dwXdeZFHzLKMNgKGe46RWsMmM.jpg",
+      "release_date": "1957-05-02",
+      "title": "The Curse of Frankenstein"
+    },
+    {
+      "adult": false,
+      "character": "Himself / Host / Narrator",
+      "credit_id": "52fe438ec3a36847f805d5ad",
+      "id": 3212,
+      "original_title": "100 Years of Horror: The Frankenstein Family",
+      "poster_path": null,
+      "release_date": "1996-01-01",
+      "title": "100 Years of Horror: The Frankenstein Family"
+    },
+    {
+      "adult": false,
+      "character": "Himself",
+      "credit_id": "52fe438ec3a36847f805d613",
+      "id": 3213,
+      "original_title": "100 Years of Horror: Baron Frankenstein",
+      "poster_path": "/mMHINvXdRJ0nMhGcVpY3GC1lIG8.jpg",
+      "release_date": "1996-01-01",
+      "title": "100 Years of Horror: Baron Frankenstein"
+    },
+    {
+      "adult": false,
+      "character": "Dr. Fu Man Chu",
+      "credit_id": "52fe4395c3a36847f805f93b",
+      "id": 3481,
+      "original_title": "The Face of Fu Manchu",
+      "poster_path": "/aLgujYUUzdQuzs5FERzKVI9q5uY.jpg",
+      "release_date": "1965-08-06",
+      "title": "The Face of Fu Manchu"
+    },
+    {
+      "adult": false,
+      "character": "Dr. Fu Man Chu",
+      "credit_id": "52fe4396c3a36847f805fad7",
+      "id": 3483,
+      "original_title": "The Blood of Fu Manchu",
+      "poster_path": "/hpDicBKsMguKKjgsBQrRtG74pxd.jpg",
+      "release_date": "1968-08-22",
+      "title": "The Blood of Fu Manchu"
+    },
+    {
+      "adult": false,
+      "character": "Dr. Fu Man Chu",
+      "credit_id": "52fe4396c3a36847f805fc3f",
+      "id": 3485,
+      "original_title": "The Castle of Fu Manchu",
+      "poster_path": "/pZARi8Zx33JsiAZQCZJPzWrPYjV.jpg",
+      "release_date": "1969-05-29",
+      "title": "The Castle of Fu Manchu"
+    },
+    {
+      "adult": false,
+      "character": "Capt. Allerman",
+      "credit_id": "52fe4398c3a36847f8060615",
+      "id": 3521,
+      "original_title": "Edgar Wallace: Das Rätsel der roten Orchidee",
+      "poster_path": "/eqoykS5369XyIsxq3WWXEgbGE2P.jpg",
+      "release_date": "1962-03-01",
+      "title": "The Puzzle of the Red Orchid"
+    },
+    {
+      "adult": false,
+      "character": "Pastor Galswells (voice)",
+      "credit_id": "52fe43a7c3a36847f8065063",
+      "id": 3933,
+      "original_title": "Corpse Bride",
+      "poster_path": "/o9GbcdP7rOg2m1NyUnUR3ZwNcTE.jpg",
+      "release_date": "2005-09-09",
+      "title": "Corpse Bride"
+    },
+    {
+      "adult": false,
+      "character": "Sanson",
+      "credit_id": "52fe43b3c3a36847f8068d73",
+      "id": 4228,
+      "original_title": "La révolution française",
+      "poster_path": "/bZzqm8ABM2JbfZXLPl0Slk4bMaH.jpg",
+      "release_date": "1989-10-01",
+      "title": "The French Revolution"
+    },
+    {
+      "adult": false,
+      "character": "Marquis St. Evremonde",
+      "credit_id": "52fe43d4c3a36847f8072b4d",
+      "id": 4701,
+      "original_title": "A Tale of Two Cities",
+      "poster_path": "/1KxAds3yrdOLIOV4eFmMprx0PVn.jpg",
+      "release_date": "1958-08-04",
+      "title": "A Tale of Two Cities"
+    },
+    {
+      "adult": false,
+      "character": "General Konstanin Benin",
+      "credit_id": "52fe43e6c3a368484e004d2b",
+      "id": 20435,
+      "original_title": "Death Train",
+      "poster_path": "/4CkGxzEBYEmL5t8kMa2hD7urV8g.jpg",
+      "release_date": "1993-04-14",
+      "title": "Death Train"
+    },
+    {
+      "adult": false,
+      "character": "Mycroft Holmes",
+      "credit_id": "52fe43fbc3a36847f807bb73",
+      "id": 5185,
+      "original_title": "The Private Life of Sherlock Holmes",
+      "poster_path": "/wss3heUOXr9ET51EJ599LuRsqo.jpg",
+      "release_date": "1970-10-29",
+      "title": "The Private Life of Sherlock Holmes"
+    },
+    {
+      "adult": false,
+      "character": "Dracula",
+      "credit_id": "52fe4412c3a36847f808081b",
+      "id": 5620,
+      "original_title": "Nachts, wenn Dracula erwacht",
+      "poster_path": "/w9sKEu6NEXJGK3sK186PHAFODOZ.jpg",
+      "release_date": "1970-04-03",
+      "title": "Count Dracula"
+    },
+    {
+      "adult": false,
+      "character": "Himself / Host / Narrator",
+      "credit_id": "52fe441c9251416c910052d7",
+      "id": 30461,
+      "original_title": "100 Years of Horror: The Count and Company",
+      "poster_path": "/t19DleE84p1JjKPznLTiFuQzJHo.jpg",
+      "release_date": "1996-01-01",
+      "title": "100 Years of Horror: The Count and Company"
+    },
+    {
+      "adult": false,
+      "character": "Resurrection Joe",
+      "credit_id": "52fe442b9251416c91007359",
+      "id": 30637,
+      "original_title": "Corridors of Blood",
+      "poster_path": "/pVF8ae46lP2m2ko6LycPhgl7eQD.jpg",
+      "release_date": "1958-12-01",
+      "title": "Corridors of Blood"
+    },
+    {
+      "adult": false,
+      "character": "John Preston",
+      "credit_id": "52fe442b9251416c910073c9",
+      "id": 30638,
+      "original_title": "Alias John Preston",
+      "poster_path": "/r2zut82PB4ROFUJEMIECNLIUDUN.jpg",
+      "release_date": "1955-12-14",
+      "title": "Alias John Preston"
+    },
+    {
+      "adult": false,
+      "character": "Fu Manchu",
+      "credit_id": "52fe44509251416c9100c67f",
+      "id": 30972,
+      "original_title": "The Brides of Fu Manchu",
+      "poster_path": "/xILxZqWpRwK1lzp5AwvjZ2Jyvhi.jpg",
+      "release_date": "1966-12-16",
+      "title": "The Brides of Fu Manchu"
+    },
+    {
+      "adult": false,
+      "character": "Capt. Wolfgang von Kleinschmidt",
+      "credit_id": "52fe44519251416c75030703",
+      "id": 11519,
+      "original_title": "1941",
+      "poster_path": "/wtADewuMRz7roBBx73fPsvHAiBW.jpg",
+      "release_date": "1979-12-13",
+      "title": "1941"
+    },
+    {
+      "adult": false,
+      "character": "Cardinal D'Ambroise",
+      "credit_id": "52fe445bc3a368484e01e869",
+      "id": 23047,
+      "original_title": "Season of the Witch",
+      "poster_path": "/71XUlmCSJomhBZoXDBBIMxzoLFx.jpg",
+      "release_date": "2011-01-07",
+      "title": "Season of the Witch"
+    },
+    {
+      "adult": false,
+      "character": "Joseph (attache)",
+      "credit_id": "52fe445e9251416c75032367",
+      "id": 11570,
+      "original_title": "The Crimson Pirate",
+      "poster_path": "/uArhnztMBSRCPaXdfKeenkKzXVc.jpg",
+      "release_date": "1952-09-27",
+      "title": "The Crimson Pirate"
+    },
+    {
+      "adult": false,
+      "character": "Bailey",
+      "credit_id": "52fe44709251416c91010b0f",
+      "id": 31283,
+      "original_title": "Hannie Caulder",
+      "poster_path": "/yB4Spw3UEsoHLO6KuK4afCCZf7a.jpg",
+      "release_date": "1971-11-08",
+      "title": "Hannie Caulder"
+    },
+    {
+      "adult": false,
+      "character": "Martin Wallace",
+      "credit_id": "52fe4474c3a36847f8097047",
+      "id": 7227,
+      "original_title": "Airport '77",
+      "poster_path": "/eMT64KL7KGjboVLK6Q0sDKNybuM.jpg",
+      "release_date": "1977-03-11",
+      "title": "Airport '77"
+    },
+    {
+      "adult": false,
+      "character": "Zetan",
+      "credit_id": "52fe4475c3a368484e024241",
+      "id": 23739,
+      "original_title": "Circle of Iron",
+      "poster_path": "/z9xanEzG5JvfyTo3jxWCWlnaGM9.jpg",
+      "release_date": "1978-07-25",
+      "title": "Circle of Iron"
+    },
+    {
+      "adult": false,
+      "character": "Death",
+      "credit_id": "52fe447fc3a368484e02692d",
+      "id": 24057,
+      "original_title": "Wyrd Sisters",
+      "poster_path": "/j5u3MF9Re8KdpNTCUeSWmlUNsvP.jpg",
+      "release_date": "2000-11-06",
+      "title": "Wyrd Sisters"
+    },
+    {
+      "adult": false,
+      "character": "Le prince des Ténèbres",
+      "credit_id": "52fe44859251416c75037bff",
+      "id": 11786,
+      "original_title": "Dracula père et fils",
+      "poster_path": "/lQRgf3QtqTedQHCdLa9KfkWWjpG.jpg",
+      "release_date": "1976-09-14",
+      "title": "Dracula and Son"
+    },
+    {
+      "adult": false,
+      "character": "Sir Henry",
+      "credit_id": "52fe44869251416c75037e5d",
+      "id": 11791,
+      "original_title": "The Hound of the Baskervilles",
+      "poster_path": "/fHds2wqJXLHCKvg7zGX2nb6mtRP.jpg",
+      "release_date": "1959-05-04",
+      "title": "The Hound of the Baskervilles"
+    },
+    {
+      "adult": false,
+      "character": "Count Dracula",
+      "credit_id": "52fe44969251416c7503a177",
+      "id": 11868,
+      "original_title": "Dracula",
+      "poster_path": "/bAiWRTTaXH5A0YPbRWtoFIEPoY7.jpg",
+      "release_date": "1958-05-08",
+      "title": "Dracula"
+    },
+    {
+      "adult": false,
+      "character": "The Jabberwocky (voice)",
+      "credit_id": "52fe44c09251416c7503fb63",
+      "id": 12155,
+      "original_title": "Alice in Wonderland",
+      "poster_path": "/pvEE5EN5N1yjmHmldfL4aJWm56l.jpg",
+      "release_date": "2010-03-04",
+      "title": "Alice in Wonderland"
+    },
+    {
+      "adult": false,
+      "character": "Count Dooku (voice)",
+      "credit_id": "52fe44c59251416c75040583",
+      "id": 12180,
+      "original_title": "Star Wars: The Clone Wars",
+      "poster_path": "/xd6yhmtS6mEURZLwUDT5raEMbf.jpg",
+      "release_date": "2008-08-05",
+      "title": "Star Wars: The Clone Wars"
+    },
+    {
+      "adult": false,
+      "character": "Rochefort",
+      "credit_id": "52fe44da9251416c75043413",
+      "id": 12310,
+      "original_title": "The Four Musketeers",
+      "poster_path": "/xayEDNIjsXwiN8Mxx8GS1Stor4v.jpg",
+      "release_date": "1974-12-19",
+      "title": "The Four Musketeers"
+    },
+    {
+      "adult": false,
+      "character": "Prof. Sir Alexander Saxton",
+      "credit_id": "52fe44dd9251416c9101f84b",
+      "id": 32613,
+      "original_title": "Horror Express",
+      "poster_path": "/vnok0cVRxoSt0RlaJXEVQAVeCGY.jpg",
+      "release_date": "1972-09-30",
+      "title": "Horror Express"
+    },
+    {
+      "adult": false,
+      "character": "Count Dracula",
+      "credit_id": "52fe44f59251416c91022b33",
+      "id": 33020,
+      "original_title": "Dracula A.D. 1972",
+      "poster_path": "/cyIGqq3luu6HwCxPDA1EuyrFnsH.jpg",
+      "release_date": "1972-09-28",
+      "title": "Dracula A.D. 1972"
+    },
+    {
+      "adult": false,
+      "character": "",
+      "credit_id": "52fe45029251416c91024701",
+      "id": 33195,
+      "original_title": "Triage",
+      "poster_path": "/jsDRXesSf5nqwNbemFaEOZ81IPW.jpg",
+      "release_date": "2009-01-01",
+      "title": "Triage"
+    },
+    {
+      "adult": false,
+      "character": "Count Frederic Regula",
+      "credit_id": "52fe45059251416c75048ed7",
+      "id": 12602,
+      "original_title": "Die Schlangengrube und das Pendel",
+      "poster_path": "/pYU6mldhJpjqzIswN3Ml9LlM50z.jpg",
+      "release_date": "1967-10-05",
+      "title": "The Torture Chamber of Dr. Sadism"
+    },
+    {
+      "adult": false,
+      "character": "Blind Pew",
+      "credit_id": "52fe450ec3a368484e045f01",
+      "id": 26612,
+      "original_title": "Treasure Island",
+      "poster_path": "/1O0ECiUbSFpIfhTAbB83n5K4PaV.jpg",
+      "release_date": "1990-01-22",
+      "title": "Treasure Island"
+    },
+    {
+      "adult": false,
+      "character": "Franklyn Marsh (segment \"Disembodied Hand\")",
+      "credit_id": "52fe451ac3a368484e048a25",
+      "id": 26811,
+      "original_title": "Dr. Terror's House of Horrors",
+      "poster_path": "/40nj3fuVF7htF8FMczs7JCrPf0A.jpg",
+      "release_date": "1965-02-23",
+      "title": "Dr. Terror's House of Horrors"
+    },
+    {
+      "adult": false,
+      "character": "Charles",
+      "credit_id": "52fe452ec3a368484e04cb77",
+      "id": 27112,
+      "original_title": "Corridor of Mirrors",
+      "poster_path": "/vO5Yh4zlhUuTVIWs48en0tGbj40.jpg",
+      "release_date": "1948-07-24",
+      "title": "Corridor of Mirrors"
+    },
+    {
+      "adult": false,
+      "character": "Kurt Menliff",
+      "credit_id": "52fe455cc3a368484e0557f5",
+      "id": 27636,
+      "original_title": "La frusta e il corpo",
+      "poster_path": "/ojUTNoYuYEdYktI04UedwWE7cmT.jpg",
+      "release_date": "1963-08-29",
+      "title": "The Whip and the Body"
+    },
+    {
+      "adult": false,
+      "character": "Dracula",
+      "credit_id": "52fe45679251416c9103103d",
+      "id": 34479,
+      "original_title": "Scars of Dracula",
+      "poster_path": "/mLORauAMmwcPbqkLBo18iCm3m6S.jpg",
+      "release_date": "1970-11-08",
+      "title": "Scars of Dracula"
+    },
+    {
+      "adult": false,
+      "character": "King Lico (Licos)",
+      "credit_id": "52fe4576c3a368484e05c8b9",
+      "id": 28058,
+      "original_title": "Ercole al centro della terra",
+      "poster_path": "/fHf92LFvxEvYYIHgaDOpay08VEH.jpg",
+      "release_date": "1961-11-16",
+      "title": "Hercules in the Haunted World"
+    },
+    {
+      "adult": false,
+      "character": "J.D. Morley",
+      "credit_id": "52fe4577c3a368484e05cd6f",
+      "id": 28073,
+      "original_title": "Curse of the Crimson Altar",
+      "poster_path": "/eNu4XC98uJ1nTCGF05UbLE8dfKL.jpg",
+      "release_date": "1968-12-01",
+      "title": "Curse of the Crimson Altar"
+    },
+    {
+      "adult": false,
+      "character": "Death (voice)",
+      "credit_id": "52fe45789251416c7505795b",
+      "id": 13541,
+      "original_title": "The Colour of Magic",
+      "poster_path": "/zexAAjMcynUEQhWQSwP1X3r9ifc.jpg",
+      "release_date": "2008-03-23",
+      "title": "The Colour of Magic"
+    },
+    {
+      "adult": false,
+      "character": "Father Michael",
+      "credit_id": "52fe457dc3a36847f80ca8c3",
+      "id": 40064,
+      "original_title": "To the Devil a Daughter",
+      "poster_path": "/lKn6X8E7nKzr8WA2MaeBHxiK3FY.jpg",
+      "release_date": "1976-03-04",
+      "title": "To the Devil a Daughter"
+    },
+    {
+      "adult": false,
+      "character": "Narrator / Himself",
+      "credit_id": "52fe4583c3a36847f80cb99d",
+      "id": 40157,
+      "original_title": "Flesh and Blood: The Hammer Horror Heritage",
+      "poster_path": "/lJVuFgTvl93rJCEPsUetvlLmTIa.jpg",
+      "release_date": "1994-08-06",
+      "title": "Flesh and Blood: The Hammer Horror Heritage"
+    },
+    {
+      "adult": false,
+      "character": "Mr. Mason",
+      "credit_id": "52fe45979251416c91037abb",
+      "id": 35153,
+      "original_title": "The Heavy",
+      "poster_path": "/hv6PLEejkJ9kHvmoqD6kTOiExa0.jpg",
+      "release_date": "2010-04-08",
+      "title": "The Heavy"
+    },
+    {
+      "adult": false,
+      "character": "Uncle Rudolf",
+      "credit_id": "52fe45979251416c91037ba9",
+      "id": 35165,
+      "original_title": "The Rainbow Thief",
+      "poster_path": "/oO6H0GGiHwHNPzCz7qaaTvxyuCX.jpg",
+      "release_date": "1990-09-01",
+      "title": "The Rainbow Thief"
+    },
+    {
+      "adult": false,
+      "character": "John McKenzie",
+      "credit_id": "52fe4599c3a36847f80d02e3",
+      "id": 40593,
+      "original_title": "Goliath Awaits",
+      "poster_path": "/5ZDKVp1fxb7nufiJTvyzUkqcBqy.jpg",
+      "release_date": "1981-11-11",
+      "title": "Goliath Awaits"
+    },
+    {
+      "adult": false,
+      "character": "Count Drago",
+      "credit_id": "52fe45a4c3a368484e06694b",
+      "id": 28592,
+      "original_title": "Il castello dei morti vivi",
+      "poster_path": "/tW6eMmRSz9UG5hhaEf9XCAQYegu.jpg",
+      "release_date": "1964-08-05",
+      "title": "The Castle of the Living Dead"
+    },
+    {
+      "adult": false,
+      "character": "Prof. Karl Meister",
+      "credit_id": "52fe45a8c3a368484e067a8d",
+      "id": 28667,
+      "original_title": "The Gorgon",
+      "poster_path": "/55OXNIl9zxi881AaJ0lrPwvocF5.jpg",
+      "release_date": "1964-08-21",
+      "title": "The Gorgon"
+    },
+    {
+      "adult": false,
+      "character": "Grigori Rasputin",
+      "credit_id": "52fe45a8c3a368484e067b25",
+      "id": 28669,
+      "original_title": "Rasputin: The Mad Monk",
+      "poster_path": "/alyP6a0RlSvhhICmCx1gY8O9qNu.jpg",
+      "release_date": "1966-03-06",
+      "title": "Rasputin: The Mad Monk"
+    },
+    {
+      "adult": false,
+      "character": "Count Dracula",
+      "credit_id": "52fe45ae9251416c9103ac53",
+      "id": 35669,
+      "original_title": "The Satanic Rites of Dracula",
+      "poster_path": "/7gjrXE3bI0W2CVw92b94I2qoUYb.jpg",
+      "release_date": "1974-01-13",
+      "title": "The Satanic Rites of Dracula"
+    },
+    {
+      "adult": false,
+      "character": "Chung King",
+      "credit_id": "52fe45afc3a368484e069103",
+      "id": 28750,
+      "original_title": "The Terror of the Tongs",
+      "poster_path": "/jqqMSyRRtzzDU5vkRDT5G3VgsPS.jpg",
+      "release_date": "1961-03-15",
+      "title": "The Terror of the Tongs"
+    },
+    {
+      "adult": false,
+      "character": "Dr. Pierre Gerard",
+      "credit_id": "52fe45b0c3a368484e069767",
+      "id": 28770,
+      "original_title": "The Man Who Could Cheat Death",
+      "poster_path": "/rrgA4y02iq6I2KOFg39aevWkwxF.jpg",
+      "release_date": "1959-06-15",
+      "title": "The Man Who Could Cheat Death"
+    },
+    {
+      "adult": false,
+      "character": "Luckman/Skull",
+      "credit_id": "52fe45b1c3a36847f80d5445",
+      "id": 41034,
+      "original_title": "Serial",
+      "poster_path": "/9nbhdwTvvPFQLmbXlhLXlrKz5Qy.jpg",
+      "release_date": "1980-03-28",
+      "title": "Serial"
+    },
+    {
+      "adult": false,
+      "character": "Captain Robeles",
+      "credit_id": "52fe45b1c3a368484e069a4b",
+      "id": 28778,
+      "original_title": "The Devil-Ship Pirates",
+      "poster_path": "/jVzwFPNnMdNumauAgldBBdLfsSC.jpg",
+      "release_date": "1964-05-15",
+      "title": "The Devil-Ship Pirates"
+    },
+    {
+      "adult": false,
+      "character": "Luis Morel",
+      "credit_id": "52fe45b7c3a368484e06aec1",
+      "id": 28861,
+      "original_title": "Dark Mission (Operación cocaína)",
+      "poster_path": "/f1K1vqAxwL9uXhrvIVrewx5eUq9.jpg",
+      "release_date": "1988-08-18",
+      "title": "Dark Mission (Operación cocaína)"
+    },
+    {
+      "adult": false,
+      "character": "Host / Narrator",
+      "credit_id": "52fe45bac3a368484e06b89f",
+      "id": 28908,
+      "original_title": "100 Years of Horror: The Gruesome Twosome",
+      "poster_path": "/6s5SuHiUCfx7KYCqzlnem82tpYn.jpg",
+      "release_date": "1996-01-01",
+      "title": "100 Years of Horror: The Gruesome Twosome"
+    },
+    {
+      "adult": false,
+      "character": "Himself / Host / Narrator",
+      "credit_id": "52fe45bac3a368484e06ba91",
+      "id": 28913,
+      "original_title": "100 Years of Horror: Scream Queens",
+      "poster_path": "/6s5SuHiUCfx7KYCqzlnem82tpYn.jpg",
+      "release_date": "1996-01-01",
+      "title": "100 Years of Horror: Scream Queens"
+    },
+    {
+      "adult": false,
+      "character": "Older Walter Page",
+      "credit_id": "52fe45c19251416c9103d4e9",
+      "id": 35939,
+      "original_title": "Glorious 39",
+      "poster_path": "/v8HNMSlCCT0eHmnuFAsw1671EL1.jpg",
+      "release_date": "2009-11-20",
+      "title": "Glorious 39"
+    },
+    {
+      "adult": false,
+      "character": "Sardar Khan",
+      "credit_id": "52fe45c2c3a36847f80d8e6f",
+      "id": 41317,
+      "original_title": "Caravans",
+      "poster_path": "/dkRwNg3SXGgFz6yjsmbt760ElHI.jpg",
+      "release_date": "1978-11-02",
+      "title": "Caravans"
+    },
+    {
+      "adult": false,
+      "character": "Mohammed Ali Jinnah",
+      "credit_id": "52fe45d6c3a36847f80dd47b",
+      "id": 41614,
+      "original_title": "Jinnah",
+      "poster_path": "/eVUdb4yu29aDZ6D11PwM4rBbSHO.jpg",
+      "release_date": "1998-11-07",
+      "title": "Jinnah"
+    },
+    {
+      "adult": false,
+      "character": "Rochefort",
+      "credit_id": "52fe45e4c3a36847f80e0687",
+      "id": 41946,
+      "original_title": "The Return of the Musketeers",
+      "poster_path": "/tvtrlEx9xo96ncHERXVkEisPMO6.jpg",
+      "release_date": "1989-08-24",
+      "title": "The Return of the Musketeers"
+    },
+    {
+      "adult": false,
+      "character": "Himself",
+      "credit_id": "52fe45e5c3a368484e07524d",
+      "id": 29502,
+      "original_title": "Witch's Dungeon: 40 Years of Chills",
+      "poster_path": "/vd7tXp1O6z10WrIHdvupPcqHlot.jpg",
+      "release_date": "2006-01-01",
+      "title": "Witch's Dungeon: 40 Years of Chills"
+    },
+    {
+      "adult": false,
+      "character": "Col. Charles Bingham",
+      "credit_id": "52fe45ebc3a368484e076891",
+      "id": 29596,
+      "original_title": "Nothing But the Night",
+      "poster_path": "/wZkTq4HJYpRLlUWcGFGmRqIYaK4.jpg",
+      "release_date": "1973-01-01",
+      "title": "Nothing But the Night"
+    },
+    {
+      "adult": false,
+      "character": "Walter Strauss",
+      "credit_id": "52fe45efc3a368484e0777fd",
+      "id": 29645,
+      "original_title": "La chute des aigles",
+      "poster_path": "/sCpd1002JCJ7QsPcWNiyIMgz2kS.jpg",
+      "release_date": "1989-01-01",
+      "title": "La chute des aigles"
+    },
+    {
+      "adult": false,
+      "character": "Dracula",
+      "credit_id": "52fe45f7c3a368484e079327",
+      "id": 29748,
+      "original_title": "Taste the Blood of Dracula",
+      "poster_path": "/tQDw6kN08omJovMHxywzyLjAFgW.jpg",
+      "release_date": "1970-05-07",
+      "title": "Taste the Blood of Dracula"
+    },
+    {
+      "adult": false,
+      "character": "Dracula",
+      "credit_id": "52fe45f8c3a368484e0798d3",
+      "id": 29778,
+      "original_title": "Dracula Has Risen from the Grave",
+      "poster_path": "/68AUnkT9xEMC1oWkUd8JaYDXj1c.jpg",
+      "release_date": "1968-11-07",
+      "title": "Dracula Has Risen from the Grave"
+    },
+    {
+      "adult": false,
+      "character": "Stefan Crosscoe",
+      "credit_id": "52fe45f9c3a368484e079be1",
+      "id": 29794,
+      "original_title": "Howling II: Stirba - Werewolf Bitch",
+      "poster_path": "/55GSkko1knnF8OYbdHVXYGz8kGc.jpg",
+      "release_date": "1985-08-28",
+      "title": "Howling II: ... Your Sister Is a Werewolf"
+    },
+    {
+      "adult": false,
+      "character": "Kato",
+      "credit_id": "52fe45fa9251416c75068f81",
+      "id": 14499,
+      "original_title": "Mio min Mio",
+      "poster_path": "/jG4pl1mHZe72HYo6f08CzWjWof6.jpg",
+      "release_date": "1987-07-01",
+      "title": "Mio in the Land of Faraway"
+    },
+    {
+      "adult": false,
+      "character": "James Hildern",
+      "credit_id": "52fe4604c3a36847f80e7883",
+      "id": 42469,
+      "original_title": "The Creeping Flesh",
+      "poster_path": "/kqrL2bfbPHw7bYALJzOgfuPXxZa.jpg",
+      "release_date": "1973-01-01",
+      "title": "The Creeping Flesh"
+    },
+    {
+      "adult": false,
+      "character": "Captain Rameses",
+      "credit_id": "52fe4609c3a36847f80e8837",
+      "id": 42542,
+      "original_title": "Starship Invasions",
+      "poster_path": "/9Q0lbq4L7V67AfePhTPRcK9LEz7.jpg",
+      "release_date": "1977-10-14",
+      "title": "Starship Invasions"
+    },
+    {
+      "adult": false,
+      "character": "Morgan Canfield",
+      "credit_id": "52fe460ac3a36847f80e8ce5",
+      "id": 42566,
+      "original_title": "An Eye for an Eye",
+      "poster_path": "/r6ADlyCeDyyBEcP2xqkdCQZWPqj.jpg",
+      "release_date": "1981-08-14",
+      "title": "An Eye for an Eye"
+    },
+    {
+      "adult": false,
+      "character": "Lord George Jeffreys",
+      "credit_id": "52fe460bc3a36847f80e91f5",
+      "id": 42591,
+      "original_title": "Il trono di fuoco",
+      "poster_path": "/t0jB07LIqtLryZTMMQrFc4QLPgt.jpg",
+      "release_date": "1970-02-05",
+      "title": "The Bloody Judge"
+    },
+    {
+      "adult": false,
+      "character": "Artemidorus",
+      "credit_id": "52fe460bc3a36847f80e9269",
+      "id": 42592,
+      "original_title": "Julius Caesar",
+      "poster_path": "/zORWZrxYLnhJ76O4yEIgPKqEmIN.jpg",
+      "release_date": "1970-06-04",
+      "title": "Julius Caesar"
+    },
+    {
+      "adult": false,
+      "character": "Fremont",
+      "credit_id": "52fe460bc3a36847f80e9301",
+      "id": 42594,
+      "original_title": "Scream and Scream Again",
+      "poster_path": "/hqyLlkWhPEy9w6piYku9fgCwUMv.jpg",
+      "release_date": "1970-02-13",
+      "title": "Scream and Scream Again"
+    },
+    {
+      "adult": false,
+      "character": "Gregor",
+      "credit_id": "52fe4614c3a36847f80eba05",
+      "id": 42717,
+      "original_title": "Circus of Fear",
+      "poster_path": "/slDtSlsvGNZ7hciRWfEbui94FcO.jpg",
+      "release_date": "1966-04-29",
+      "title": "Circus of Fear"
+    },
+    {
+      "adult": false,
+      "character": "Sir Matthew Phillips",
+      "credit_id": "52fe4616c3a36847f80ec0dd",
+      "id": 42745,
+      "original_title": "The Skull",
+      "poster_path": "/h4KRB2Cju2vsyVJhiyr5xcgrsrX.jpg",
+      "release_date": "1965-06-09",
+      "title": "The Skull"
+    },
+    {
+      "adult": false,
+      "character": "Alfred Rhinegold",
+      "credit_id": "52fe461b9251416c9104953f",
+      "id": 36939,
+      "original_title": "Boogie Woogie",
+      "poster_path": "/fBTHzc41xi6YOj1YyqchEExOJSd.jpg",
+      "release_date": "2009-06-17",
+      "title": "Boogie Woogie"
+    },
+    {
+      "adult": false,
+      "character": "Victor Gannon",
+      "credit_id": "52fe461d9251416c7506d9c1",
+      "id": 14822,
+      "original_title": "Return From Witch Mountain",
+      "poster_path": "/xyApwnx2Rf8105KrfO0oCWq56Bc.jpg",
+      "release_date": "1978-03-10",
+      "title": "Return From Witch Mountain"
+    },
+    {
+      "adult": false,
+      "character": "Sherlock Holmes",
+      "credit_id": "52fe4626c3a36847f80ef8d9",
+      "id": 43010,
+      "original_title": "Sherlock Holmes und das Halsband des Todes",
+      "poster_path": "/hZETePelyCINy7Uu4Qzc8iBF4Gd.jpg",
+      "release_date": "1962-01-01",
+      "title": "Sherlock Holmes and the Deadly Necklace"
+    },
+    {
+      "adult": false,
+      "character": "Kenny King",
+      "credit_id": "52fe462bc3a36847f80f0a03",
+      "id": 43092,
+      "original_title": "Beat Girl",
+      "poster_path": "/jD6OhT78qaKKoPh9Kx2iEiGpOWP.jpg",
+      "release_date": "1960-08-21",
+      "title": "Beat Girl"
+    },
+    {
+      "adult": false,
+      "character": "Emerich",
+      "credit_id": "52fe4630c3a368484e0839cb",
+      "id": 60672,
+      "original_title": "Les Rivières pourpres 2 : Les Anges de l'apocalypse",
+      "poster_path": "/4BwEtvsVbt3wZqfrKZpP5kyn65T.jpg",
+      "release_date": "2004-02-18",
+      "title": "Crimson Rivers II: Angels of the Apocalypse"
+    },
+    {
+      "adult": false,
+      "character": "Jonathan Blair",
+      "credit_id": "52fe46329251416c9104c751",
+      "id": 37194,
+      "original_title": "Penny and the Pownall Case",
+      "poster_path": "/p0lNcpadwDxOYRjvyFSxwViL3dF.jpg",
+      "release_date": "1948-06-26",
+      "title": "Penny and the Pownall Case"
+    },
+    {
+      "adult": false,
+      "character": "Clarney",
+      "credit_id": "52fe4676c3a368484e091eff",
+      "id": 62213,
+      "original_title": "Dark Shadows",
+      "poster_path": "/6125p54Jnog3kFsY33oMQF3d1dJ.jpg",
+      "release_date": "2012-05-11",
+      "title": "Dark Shadows"
+    },
+    {
+      "adult": false,
+      "character": "Monsieur Labisse",
+      "credit_id": "52fe469dc3a36847f8108b47",
+      "id": 44826,
+      "original_title": "Hugo",
+      "poster_path": "/fkeaJr29ypea1n24gzspsc7qK44.jpg",
+      "release_date": "2011-11-23",
+      "title": "Hugo"
+    },
+    {
+      "adult": false,
+      "character": "Evil Sender",
+      "credit_id": "52fe46c19251416c750827d7",
+      "id": 16299,
+      "original_title": "The Stupids",
+      "poster_path": "/h6ApGOCL6G6ayrAMkw7ZrWyvoe3.jpg",
+      "release_date": "1996-08-30",
+      "title": "The Stupids"
+    },
+    {
+      "adult": false,
+      "character": "Lord Summerisle",
+      "credit_id": "52fe46c39251416c75082af7",
+      "id": 16307,
+      "original_title": "The Wicker Man",
+      "poster_path": "/9kHTypiwFGjqa6N4oT8fv3lB3VW.jpg",
+      "release_date": "1973-12-01",
+      "title": "The Wicker Man"
+    },
+    {
+      "adult": false,
+      "character": "Flay",
+      "credit_id": "52fe46ca9251416c9105fd3b",
+      "id": 38622,
+      "original_title": "Gormenghast",
+      "poster_path": "/nANXLblZxKefM2ntmp1Ddr0vx9D.jpg",
+      "release_date": "2000-01-17",
+      "title": "Gormenghast"
+    },
+    {
+      "adult": false,
+      "character": "Lechinski",
+      "credit_id": "52fe46cb9251416c9105feb9",
+      "id": 38629,
+      "original_title": "Bear Island",
+      "poster_path": "/jhCaly66cGyT92ETWZH59Cw2nyS.jpg",
+      "release_date": "1979-12-05",
+      "title": "Bear Island"
+    },
+    {
+      "adult": false,
+      "character": "Doctor Pierre Gerrard",
+      "credit_id": "52fe46dfc3a368484e0a87fb",
+      "id": 64568,
+      "original_title": "Taste of Fear",
+      "poster_path": "/jRCPJwyfGuuWYSiGdiGuuagt8Q3.jpg",
+      "release_date": "1961-06-05",
+      "title": "Taste of Fear"
+    },
+    {
+      "adult": false,
+      "character": "Submarine Commander Alan Grieves",
+      "credit_id": "52fe46fec3a368484e0af2ab",
+      "id": 65114,
+      "original_title": "The Cockleshell Heroes",
+      "poster_path": "/mxd1GNYwjLR2Dn9rpGxrtPRg1qc.jpg",
+      "release_date": "1955-11-16",
+      "title": "The Cockleshell Heroes"
+    },
+    {
+      "adult": false,
+      "character": "Corrigan",
+      "credit_id": "52fe46ff9251416c91066c47",
+      "id": 39164,
+      "original_title": "House of the Long Shadows",
+      "poster_path": "/uKi7gtXhqjR2uCOQsJ8KuuM7lsT.jpg",
+      "release_date": "1983-06-17",
+      "title": "House of the Long Shadows"
+    },
+    {
+      "adult": false,
+      "character": "Count Dracula",
+      "credit_id": "52fe47059251416c7508b559",
+      "id": 17102,
+      "original_title": "Dracula: Prince of Darkness",
+      "poster_path": "/AcrStPFOuXhOTXmJ6uf6V89cnke.jpg",
+      "release_date": "1966-01-09",
+      "title": "Dracula: Prince of Darkness"
+    },
+    {
+      "adult": false,
+      "character": "John Reid (segment 3 \"Sweets to the Sweet\")",
+      "credit_id": "52fe47089251416c9106802b",
+      "id": 39261,
+      "original_title": "The House That Dripped Blood",
+      "poster_path": "/yQCoggUKSYH4udjVW3hfCaQJhHf.jpg",
+      "release_date": "1971-06-16",
+      "title": "The House That Dripped Blood"
+    },
+    {
+      "adult": false,
+      "character": "Tiresias",
+      "credit_id": "52fe47149251416c7508d103",
+      "id": 17266,
+      "original_title": "The Odyssey",
+      "poster_path": "/8V4w7l1hnTOEwHcQ38NoqIAaKga.jpg",
+      "release_date": "1997-05-18",
+      "title": "The Odyssey"
+    },
+    {
+      "adult": false,
+      "character": "Billali",
+      "credit_id": "52fe47369251416c750918ff",
+      "id": 17604,
+      "original_title": "She",
+      "poster_path": "/niHLVWsNipAhTtY9BcZZSoMd6mQ.jpg",
+      "release_date": "1965-04-10",
+      "title": "She"
+    },
+    {
+      "adult": false,
+      "character": "Prof. Alan Driscoll",
+      "credit_id": "52fe473a9251416c9106e531",
+      "id": 39890,
+      "original_title": "The City of the Dead",
+      "poster_path": "/4EETS8tF23ixJ5PMQHmH1CNTXWB.jpg",
+      "release_date": "1960-09-09",
+      "title": "The City of the Dead"
+    },
+    {
+      "adult": false,
+      "character": "Duc de Richleau",
+      "credit_id": "52fe473a9251416c9106e5ab",
+      "id": 39891,
+      "original_title": "The Devil Rides Out",
+      "poster_path": "/oXyQzauIq9lpTbXpxhokoRu5bH6.jpg",
+      "release_date": "1968-07-20",
+      "title": "The Devil Rides Out"
+    },
+    {
+      "adult": false,
+      "character": "Sir Richard Turkel",
+      "credit_id": "52fe474ec3a368484e0bfce9",
+      "id": 66892,
+      "original_title": "Tale of the Mummy",
+      "poster_path": "/vow7tlBrPiL1agQ3kuw5xt0Zwjj.jpg",
+      "release_date": "1998-03-01",
+      "title": "Tale of the Mummy"
+    },
+    {
+      "adult": false,
+      "character": "President White",
+      "credit_id": "52fe4772c3a368484e0c755d",
+      "id": 67693,
+      "original_title": "Jocks",
+      "poster_path": "/iE2SmUnoXT1V7UdBaOoY8an6o99.jpg",
+      "release_date": "1986-11-14",
+      "title": "Jocks"
+    },
+    {
+      "adult": false,
+      "character": "Saruman",
+      "credit_id": "52fe4783c3a36847f8139f9b",
+      "id": 49051,
+      "original_title": "The Hobbit: An Unexpected Journey",
+      "poster_path": "/h1XjBJoWdOh8aegBoVYKgABQZSL.jpg",
+      "release_date": "2012-12-14",
+      "title": "The Hobbit: An Unexpected Journey"
+    },
+    {
+      "adult": false,
+      "character": "Death (voice)",
+      "credit_id": "52fe47869251416c7509c95f",
+      "id": 18560,
+      "original_title": "Soul Music",
+      "poster_path": "/fN4gzy9qKil7SzwzHUJ6XeSirHe.jpg",
+      "release_date": "1997-05-12",
+      "title": "Soul Music"
+    },
+    {
+      "adult": false,
+      "character": "Dr. Fu Manchu",
+      "credit_id": "52fe4789c3a36847f813b169",
+      "id": 49183,
+      "original_title": "The Vengeance of Fu Manchu",
+      "poster_path": "/yxuqegVTaKHn6C6LA4PofRMiwdb.jpg",
+      "release_date": "1967-05-25",
+      "title": "The Vengeance of Fu Manchu"
+    },
+    {
+      "adult": false,
+      "character": "Sgt. Barney",
+      "credit_id": "52fe47abc3a368484e0d371f",
+      "id": 68850,
+      "original_title": "Bitter Victory",
+      "poster_path": "/weQ4NgOvPtxgTXwUOsPpD32Uu98.jpg",
+      "release_date": "1957-11-20",
+      "title": "Bitter Victory"
+    },
+    {
+      "adult": false,
+      "character": "Kharis, the Mummy",
+      "credit_id": "52fe47b19251416c750a2449",
+      "id": 18990,
+      "original_title": "The Mummy",
+      "poster_path": "/z9icJL7izlrLZSZRuYaOWag91xK.jpg",
+      "release_date": "1959-09-29",
+      "title": "The Mummy"
+    },
+    {
+      "adult": false,
+      "character": "Old Joseph",
+      "credit_id": "52fe47bec3a36847f8145f91",
+      "id": 50204,
+      "original_title": "Burke & Hare",
+      "poster_path": "/kYprkOK0t0RpnkWrAmCCNMt6857.jpg",
+      "release_date": "2010-10-29",
+      "title": "Burke & Hare"
+    },
+    {
+      "adult": false,
+      "character": "Nero the magician",
+      "credit_id": "52fe47cf9251416c91076771",
+      "id": 80633,
+      "original_title": "The Hands of Orlac",
+      "poster_path": "/lJhNnedsWUFLpXiDd0NcQqt6Vzi.jpg",
+      "release_date": "1960-12-01",
+      "title": "The Hands of Orlac"
+    },
+    {
+      "adult": false,
+      "character": "August",
+      "credit_id": "52fe47d1c3a36847f8149cfd",
+      "id": 50671,
+      "original_title": "The Resident",
+      "poster_path": "/2jO9rxa6XbpIZVDcVMm7e6TQ7Kd.jpg",
+      "release_date": "2011-02-18",
+      "title": "The Resident"
+    },
+    {
+      "adult": false,
+      "character": "Gypsy",
+      "credit_id": "52fe47f8c3a36847f8152029",
+      "id": 51543,
+      "original_title": "The Passage",
+      "poster_path": "/kE8dEfO8OjUvirvFCPVlLXEqhLV.jpg",
+      "release_date": "1979-03-09",
+      "title": "The Passage"
+    },
+    {
+      "adult": false,
+      "character": "Narrator",
+      "credit_id": "52fe4800c3a368484e0e4b79",
+      "id": 70560,
+      "original_title": "100 Years Under the Sea: Shipwrecks of the Caribbean",
+      "poster_path": "/hUPdJShMlU8XC7y5shLVcTtHpUz.jpg",
+      "release_date": "2008-11-25",
+      "title": "100 Years Under the Sea: Shipwrecks of the Caribbean"
+    },
+    {
+      "adult": false,
+      "character": "Mr. Midnight",
+      "credit_id": "52fe481fc3a368484e0ea2e9",
+      "id": 71016,
+      "original_title": "The Return of Captain Invincible",
+      "poster_path": "/wsFPnwgmPt4NCbT68nZiYoGEtia.jpg",
+      "release_date": "1983-01-01",
+      "title": "The Return of Captain Invincible"
+    },
+    {
+      "adult": false,
+      "character": "Dr. Charles Marlowe",
+      "credit_id": "52fe484ac3a36847f816004d",
+      "id": 52941,
+      "original_title": "I, Monster",
+      "poster_path": "/SXWoCiQx0W1RyjPnlNtbBYnj8R.jpg",
+      "release_date": "1971-11-01",
+      "title": "I, Monster"
+    },
+    {
+      "adult": false,
+      "character": "Caliph Alquazar",
+      "credit_id": "52fe48519251416c910880e1",
+      "id": 82430,
+      "original_title": "Arabian Adventure",
+      "poster_path": "/w1BbWYBuOziFQM3Hik5PqkdWPCT.jpg",
+      "release_date": "1979-07-08",
+      "title": "Arabian Adventure"
+    },
+    {
+      "adult": false,
+      "character": "Major Chilton",
+      "credit_id": "52fe48809251416c9108eb8b",
+      "id": 82962,
+      "original_title": "Killer Force",
+      "poster_path": "/m3aCLnohhQONPie1BqIO1nQJcGi.jpg",
+      "release_date": "1976-01-14",
+      "title": "Killer Force"
+    },
+    {
+      "adult": false,
+      "character": "The Lord Provost",
+      "credit_id": "52fe48abc3a368484e104c01",
+      "id": 73772,
+      "original_title": "Greyfriars Bobby",
+      "poster_path": "/1J3Ef8Wf3udv88mipDuZwrI0Yxo.jpg",
+      "release_date": "2005-10-29",
+      "title": "Greyfriars Bobby"
+    },
+    {
+      "adult": false,
+      "character": "Godfrey Hanson",
+      "credit_id": "52fe48afc3a36847f817427b",
+      "id": 54801,
+      "original_title": "Night of the Big Heat",
+      "poster_path": "/9jgrVhRSwAnEXVSyLockKrOLNt4.jpg",
+      "release_date": "1967-05-01",
+      "title": "Night of the Big Heat"
+    },
+    {
+      "adult": false,
+      "character": "Dr. J. Neuhartt",
+      "credit_id": "52fe48bec3a36847f81770c5",
+      "id": 55152,
+      "original_title": "The Oblong Box",
+      "poster_path": "/AnhIXa7DL9nRHCaM1nrrG7VRsy1.jpg",
+      "release_date": "1969-06-11",
+      "title": "The Oblong Box"
+    },
+    {
+      "adult": false,
+      "character": "Erich",
+      "credit_id": "52fe48c1c3a368484e1092f5",
+      "id": 74215,
+      "original_title": "La vergine di Norimberga",
+      "poster_path": "/dFtSmdlE9rb03jAOdF9tureW9Yt.jpg",
+      "release_date": "1963-08-15",
+      "title": "The Virgin of Nuremberg"
+    },
+    {
+      "adult": false,
+      "character": "Count Borgia",
+      "credit_id": "52fe48d69251416c91099e63",
+      "id": 84082,
+      "original_title": "Safari 3000",
+      "poster_path": "/qZCIoIiN8Kqve22cmsS1oZ7p1aM.jpg",
+      "release_date": "1982-05-01",
+      "title": "Safari 3000"
+    },
+    {
+      "adult": false,
+      "character": "V. E. 'Raptor' Longfellow",
+      "credit_id": "52fe48f8c3a368484e114093",
+      "id": 75244,
+      "original_title": "A Feast At Midnight",
+      "poster_path": "/rSzgpO7J5Xvx2K0ba9jixmEypwm.jpg",
+      "release_date": "1994-11-01",
+      "title": "A Feast At Midnight"
+    },
+    {
+      "adult": false,
+      "character": "French Patrol Captain at Tavern (uncredited)",
+      "credit_id": "52fe4913c3a368484e119417",
+      "id": 75796,
+      "original_title": "The Dark Avenger",
+      "poster_path": "/quwqTzHlGRepeqW7HmzWlrxsXr5.jpg",
+      "release_date": "1955-09-11",
+      "title": "The Dark Avenger"
+    },
+    {
+      "adult": false,
+      "character": "Lord Bathurst",
+      "credit_id": "52fe491dc3a368484e11adf5",
+      "id": 75926,
+      "original_title": "Shaka Zulu",
+      "poster_path": "/ftw95S2pqrX79ihF73ynVqymLoG.jpg",
+      "release_date": "1986-11-24",
+      "title": "Shaka Zulu"
+    },
+    {
+      "adult": false,
+      "character": "Dragon #4",
+      "credit_id": "52fe4928c3a368484e11d2f5",
+      "id": 76131,
+      "original_title": "Five Golden Dragons",
+      "poster_path": "/nBpCpMRbYBTCsuMxYnnBvN2lltF.jpg",
+      "release_date": "1967-08-03",
+      "title": "Five Golden Dragons"
+    },
+    {
+      "adult": false,
+      "character": "Adam Caine",
+      "credit_id": "52fe494e9251416c910a9117",
+      "id": 85602,
+      "original_title": "Jaguar Lives!",
+      "poster_path": "/14vOpIC3U0baPt8jy75wSbdFm02.jpg",
+      "release_date": "1979-08-09",
+      "title": "Jaguar Lives!"
+    },
+    {
+      "adult": false,
+      "character": "Doctor Pearson",
+      "credit_id": "52fe49599251416c750c52e5",
+      "id": 94436,
+      "original_title": "Curse III: Blood Sacrifice",
+      "poster_path": "/7zoaJQqwCJ1Ow9ItL1L30qnpeyR.jpg",
+      "release_date": "1991-05-10",
+      "title": "Curse III: Blood Sacrifice"
+    },
+    {
+      "adult": false,
+      "character": "Captain LaRoche",
+      "credit_id": "52fe4971c3a36847f819a65d",
+      "id": 58733,
+      "original_title": "The Pirates of Blood River",
+      "poster_path": "/6OTMKbFDkOsreL8ShIPXF3B7HCE.jpg",
+      "release_date": "1962-07-31",
+      "title": "The Pirates of Blood River"
+    },
+    {
+      "adult": false,
+      "character": "Sherlock Holmes",
+      "credit_id": "52fe49c2c3a368484e13e2d3",
+      "id": 79106,
+      "original_title": "Sherlock Holmes: Incident at Victoria Falls",
+      "poster_path": "/2HkL3ziEOe1L2td1fg3JcRleXVn.jpg",
+      "release_date": "1992-01-12",
+      "title": "Sherlock Holmes: Incident at Victoria Falls"
+    },
+    {
+      "adult": false,
+      "character": "Dolmance",
+      "credit_id": "52fe49cb9251416c910b8e7f",
+      "id": 87503,
+      "original_title": "Eugenie",
+      "poster_path": "/wz1AKfy8QYm6kIYXPPwKiXsheW1.jpg",
+      "release_date": "1970-02-20",
+      "title": "Eugenie"
+    },
+    {
+      "adult": false,
+      "character": "Old Man",
+      "credit_id": "52fe49d7c3a368484e142ffd",
+      "id": 79544,
+      "original_title": "The Wicker Tree",
+      "poster_path": "/7ZsEaCfKkIm5DerhU3qx0TJdJMy.jpg",
+      "release_date": "2011-08-27",
+      "title": "The Wicker Tree"
+    },
+    {
+      "adult": false,
+      "character": "Lucas de Beaumanoir",
+      "credit_id": "52fe49f5c3a36847f81afcbf",
+      "id": 101662,
+      "original_title": "Ivanhoe",
+      "poster_path": "/5owz0vivpznEe8LCdnGwxxQy8XE.jpg",
+      "release_date": "1997-01-12",
+      "title": "Ivanhoe"
+    },
+    {
+      "adult": false,
+      "character": "Callum Chance",
+      "credit_id": "52fe4a2fc3a36847f81bf419",
+      "id": 104205,
+      "original_title": "Funny Man",
+      "poster_path": "/c0CTx5KxGKl8XNw4xuGB9MsILU5.jpg",
+      "release_date": "1994-11-10",
+      "title": "Funny Man"
+    },
+    {
+      "adult": false,
+      "character": "",
+      "credit_id": "52fe4a38c3a36847f81c1ec5",
+      "id": 104621,
+      "original_title": "Mask of Murder",
+      "poster_path": "/ghqcwisEcCLRVCul9Gcb3MNJInx.jpg",
+      "release_date": "1985-10-15",
+      "title": "Mask of Murder"
+    },
+    {
+      "adult": false,
+      "character": "Dr. Ian Mandeville",
+      "credit_id": "52fe4a4cc3a368484e14b611",
+      "id": 120632,
+      "original_title": "Dark Places",
+      "poster_path": "/lLBO0L5tSRlSn07dJLjqYuxSDFD.jpg",
+      "release_date": "1974-05-01",
+      "title": "Dark Places"
+    },
+    {
+      "adult": false,
+      "character": "Saruman",
+      "credit_id": "52fe4a87c3a368484e158bbf",
+      "id": 122917,
+      "original_title": "The Hobbit: The Battle of the Five Armies",
+      "poster_path": "/vgAHvS0bT3fpcpnJqT6uDTUsHTo.jpg",
+      "release_date": "2014-12-17",
+      "title": "The Hobbit: The Battle of the Five Armies"
+    },
+    {
+      "adult": false,
+      "character": "Himself / Vlad Tepes / Count Dracula",
+      "credit_id": "52fe4a919251416c750e67bd",
+      "id": 140482,
+      "original_title": "Vem var Dracula?",
+      "poster_path": "/zDfiFxY0CDUKTvHEC8wvPdtSPIn.jpg",
+      "release_date": "1975-05-15",
+      "title": "In Search of Dracula"
+    },
+    {
+      "adult": false,
+      "character": "Sherlock Holmes",
+      "credit_id": "52fe4a9dc3a36847f81d837b",
+      "id": 108432,
+      "original_title": "Sherlock Holmes and the Leading Lady",
+      "poster_path": "/1dJOx1DCbdOs9WdTnOwkbCEAeXc.jpg",
+      "release_date": "1991-11-01",
+      "title": "Sherlock Holmes and the Leading Lady"
+    },
+    {
+      "adult": false,
+      "character": "Philippe Darvas",
+      "credit_id": "52fe4aaac3a36847f81db3e5",
+      "id": 109089,
+      "original_title": "Theatre of Death",
+      "poster_path": "/vKF0phZKgNIoyM1FDVUfvQmsgcr.jpg",
+      "release_date": "1967-11-01",
+      "title": "Theatre of Death"
+    },
+    {
+      "adult": false,
+      "character": "Marcus Valorium",
+      "credit_id": "52fe4abfc3a36847f81df943",
+      "id": 109636,
+      "original_title": "Once Upon a Spy",
+      "poster_path": "/jsVaVXtLYUguRTBXMcatLxeqzyE.jpg",
+      "release_date": "1980-09-19",
+      "title": "Once Upon a Spy"
+    },
+    {
+      "adult": false,
+      "character": "Colonel Stuart",
+      "credit_id": "52fe4acec3a368484e168111",
+      "id": 125784,
+      "original_title": "The Face of Eve",
+      "poster_path": "/adT9GKY4oSTAyNjcCxOG4W7s6kO.jpg",
+      "release_date": "1968-08-05",
+      "title": "The Face of Eve"
+    },
+    {
+      "adult": false,
+      "character": "Himself/Count Dracula",
+      "credit_id": "52fe4adbc3a368484e16aa89",
+      "id": 126278,
+      "original_title": "Cuadecuc, vampir",
+      "poster_path": "/qD0H1uGZvynqEhI8v3w3PtyOep8.jpg",
+      "release_date": "1971-05-17",
+      "title": "Cuadecuc, vampir"
+    },
+    {
+      "adult": false,
+      "character": "Peter Storm",
+      "credit_id": "52fe4ae4c3a36847f81e7057",
+      "id": 110729,
+      "original_title": "The Girl",
+      "poster_path": "/v0E2awRilfpfbwRhWYIIKMx5dqj.jpg",
+      "release_date": "1987-08-07",
+      "title": "The Girl"
+    },
+    {
+      "adult": false,
+      "character": "Host",
+      "credit_id": "52fe4b439251416c750fd537",
+      "id": 144839,
+      "original_title": "Evil Stalks This House",
+      "poster_path": "/hzIAVQYfqkc8LHvAswCEi6O5KZH.jpg",
+      "release_date": "1981-07-12",
+      "title": "Evil Stalks This House"
+    },
+    {
+      "adult": false,
+      "character": "Mr. Clifford King",
+      "credit_id": "52fe4b779251416c910db463",
+      "id": 155233,
+      "original_title": "The Rosebud Beach Hotel",
+      "poster_path": "/ysG2x9IRS78O2XyXXfLUJrPC8ke.jpg",
+      "release_date": "1984-11-02",
+      "title": "The Rosebud Beach Hotel"
+    },
+    {
+      "adult": false,
+      "character": "Det. Holt",
+      "credit_id": "52fe4b7cc3a36847f8205f9d",
+      "id": 115829,
+      "original_title": "Valley of the Eagles",
+      "poster_path": "/fxEsdNWfvVg6MNnbMzoYpzPRcS8.jpg",
+      "release_date": "1951-09-26",
+      "title": "Valley of the Eagles"
+    },
+    {
+      "adult": false,
+      "character": "Azaret",
+      "credit_id": "52fe4b919251416c910dec7d",
+      "id": 156030,
+      "original_title": "Sorellina E Il Principe Del Sogno",
+      "poster_path": "/bMzLB7B1PUmjbAHXtIevKiS1L4b.jpg",
+      "release_date": "1996-02-01",
+      "title": "Princess Alisea"
+    },
+    {
+      "adult": false,
+      "character": "Dr. Wonka",
+      "credit_id": "52fe421ac3a36847f800432f",
+      "id": 118,
+      "original_title": "Charlie and the Chocolate Factory",
+      "poster_path": "/dvHl1dYvaZRhj9Gk0ITcCHr4DIJ.jpg",
+      "release_date": "2005-07-09",
+      "title": "Charlie and the Chocolate Factory"
+    },
+    {
+      "adult": false,
+      "character": "Saruman",
+      "credit_id": "52fe421ac3a36847f80044ab",
+      "id": 120,
+      "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+      "poster_path": "/bxVxZb5O9OxCO0oRUNdCnpy9NST.jpg",
+      "release_date": "2001-12-20",
+      "title": "The Lord of the Rings: The Fellowship of the Ring"
+    },
+    {
+      "adult": false,
+      "character": "Saruman",
+      "credit_id": "52fe421ac3a36847f80045a1",
+      "id": 121,
+      "original_title": "The Lord of the Rings: The Two Towers",
+      "poster_path": "/5o5fv1dHG7vWoH2hmqwihVPBoBm.jpg",
+      "release_date": "2002-12-18",
+      "title": "The Lord of the Rings: The Two Towers"
+    },
+    {
+      "adult": false,
+      "character": "Francisco Scaramanga",
+      "credit_id": "52fe426ac3a36847f801cd61",
+      "id": 682,
+      "original_title": "The Man with the Golden Gun",
+      "poster_path": "/7VSVgxAvA7IdTf8T6Oon1eaReeJ.jpg",
+      "release_date": "1974-12-18",
+      "title": "The Man with the Golden Gun"
+    },
+    {
+      "adult": false,
+      "character": "Doctor Catheter",
+      "credit_id": "52fe428ec3a36847f80280bf",
+      "id": 928,
+      "original_title": "Gremlins 2: The New Batch",
+      "poster_path": "/mkWD9W27JYmQPbgcryPBdI2cF4r.jpg",
+      "release_date": "1990-06-15",
+      "title": "Gremlins 2: The New Batch"
+    },
+    {
+      "adult": false,
+      "character": "Charles Highbury",
+      "credit_id": "52fe4b94c3a36847f820a9b1",
+      "id": 116580,
+      "original_title": "She Played With Fire",
+      "poster_path": "/y5TatnttkyR1wlVVGINFhRXYii0.jpg",
+      "release_date": "1957-03-13",
+      "title": "She Played With Fire"
+    },
+    {
+      "adult": false,
+      "character": "Lieutenant Whitlock",
+      "credit_id": "52fe4ba9c3a368484e193a81",
+      "id": 133181,
+      "original_title": "Innocents in Paris",
+      "poster_path": "/sx5zMEfgROUrDbv9hEPpUDfRd7W.jpg",
+      "release_date": "1953-07-22",
+      "title": "Innocents in Paris"
+    },
+    {
+      "adult": false,
+      "character": "On-Screen Narrator",
+      "credit_id": "52fe4bf6c3a36847f821ae7d",
+      "id": 119170,
+      "original_title": "Meatcleaver Massacre",
+      "poster_path": "/uH5Fcbg1hkJWwUEgE6kDm5uAYpB.jpg",
+      "release_date": "1977-03-01",
+      "title": "Meatcleaver Massacre"
+    },
+    {
+      "adult": false,
+      "character": "Himself",
+      "credit_id": "52fe4c0ac3a368484e1a3ceb",
+      "id": 135921,
+      "original_title": "Everything or Nothing: The Untold Story of 007",
+      "poster_path": "/r46x7gHKWsdTc47RJKRUsdboldY.jpg",
+      "release_date": "2012-10-05",
+      "title": "Everything or Nothing: The Untold Story of 007"
+    },
+    {
+      "adult": false,
+      "character": "Baron Roderico da Frankurten",
+      "credit_id": "52fe4c1bc3a368484e1a76c1",
+      "id": 136695,
+      "original_title": "Tempi duri per i vampiri",
+      "poster_path": "/y0se5DaYISyyWVr7zLX29N0bzUt.jpg",
+      "release_date": "1959-10-28",
+      "title": "Hard Times For Vampires"
+    },
+    {
+      "adult": false,
+      "character": "Father Bartolomeu",
+      "credit_id": "52fe4c29c3a36847f8220c79",
+      "id": 160139,
+      "original_title": "Night Train to Lisbon",
+      "poster_path": "/kq7EIirl1AGRNpxR294cLe0PxvE.jpg",
+      "release_date": "2013-03-07",
+      "title": "Night Train to Lisbon"
+    },
+    {
+      "adult": false,
+      "character": "The Man",
+      "credit_id": "52fe4c36c3a368484e1ace97",
+      "id": 137619,
+      "original_title": "Umbracle",
+      "poster_path": "/ablTL8PGnYZ9Tp3RyfuocxaobNs.jpg",
+      "release_date": "1972-01-01",
+      "title": "Umbracle"
+    },
+    {
+      "adult": false,
+      "character": "Captain",
+      "credit_id": "52fe4c40c3a368484e1aed03",
+      "id": 138121,
+      "original_title": "That Lady",
+      "poster_path": "/v9lfJ2sHI7JJMb93h1OdaajxZnG.jpg",
+      "release_date": "1955-05-11",
+      "title": "That Lady"
+    },
+    {
+      "adult": false,
+      "character": "Slave Dealer",
+      "credit_id": "52fe4c8b9251416c7511dc43",
+      "id": 182777,
+      "original_title": "Babes in Bagdad",
+      "poster_path": "/fJhb3qbvr9jQ3I1kYUfgVjPQjqQ.jpg",
+      "release_date": "1952-12-07",
+      "title": "Babes in Bagdad"
+    },
+    {
+      "adult": false,
+      "character": "Uncle Drosselmeyer",
+      "credit_id": "52fe4c8ec3a36847f8233e6b",
+      "id": 165644,
+      "original_title": "Nutcracker Fantasy",
+      "poster_path": "/4zS3V9xM7VADbyr83Emw2XO7Qel.jpg",
+      "release_date": "1979-03-03",
+      "title": "Nutcracker Fantasy"
+    },
+    {
+      "adult": false,
+      "character": "Russian agent",
+      "credit_id": "52fe4ceb9251416c91104863",
+      "id": 194432,
+      "original_title": "Top Secret",
+      "poster_path": "/8FBpKP0xbK05OqR8pOmvkopUXIa.jpg",
+      "release_date": "1952-11-10",
+      "title": "Top Secret"
+    },
+    {
+      "adult": false,
+      "character": "The Narrator",
+      "credit_id": "52fe4d0fc3a36847f824c5b3",
+      "id": 171570,
+      "original_title": "The Fall of the house of Usher",
+      "poster_path": "/xQ2pBO96h0WI0uO1Jcf7lAbckQx.jpg",
+      "release_date": "2012-11-09",
+      "title": "The fall of the house of Usher"
+    },
+    {
+      "adult": false,
+      "character": "Sir Felix Raybourne",
+      "credit_id": "52fe4d249251416c9110c0b9",
+      "id": 196147,
+      "original_title": "Paul Temple Returns",
+      "poster_path": "/9LloPVdjDI1zJhQwh9O43LIpgth.jpg",
+      "release_date": "1952-11-24",
+      "title": "Paul Temple Returns"
+    },
+    {
+      "adult": false,
+      "character": "Jaeger",
+      "credit_id": "52fe4d329251416c9110dec7",
+      "id": 196486,
+      "original_title": "The Treasure of San Teresa",
+      "poster_path": "/ihLKZI2tEW1f1mcFku3XEO8B7W4.jpg",
+      "release_date": "1959-07-21",
+      "title": "The Treasure of San Teresa"
+    },
+    {
+      "adult": false,
+      "character": "",
+      "credit_id": "52fe4d3ec3a36847f82565db",
+      "id": 173874,
+      "original_title": "The Many Faces of Christopher Lee",
+      "poster_path": "/uYXdTmDTRY2hjMmPASl1vVHNqX0.jpg",
+      "release_date": "1996-01-01",
+      "title": "The Many Faces of Christopher Lee"
+    },
+    {
+      "adult": false,
+      "character": "Miguel",
+      "credit_id": "52fe4d579251416c91112bef",
+      "id": 197481,
+      "original_title": "Captain America II: Death Too Soon",
+      "poster_path": "/qxzxTthwaqNEmkT3yiIMMdL3P8B.jpg",
+      "release_date": "1979-11-23",
+      "title": "Captain America II: Death Too Soon"
+    },
+    {
+      "adult": false,
+      "character": "Newsman",
+      "credit_id": "52fe4d83c3a368484e1ed44f",
+      "id": 210715,
+      "original_title": "Prelude to Fame",
+      "poster_path": "/2HIVEcKzUbMpzikLGOs72mpkjqv.jpg",
+      "release_date": "1950-05-02",
+      "title": "Prelude to Fame"
+    },
+    {
+      "adult": false,
+      "character": "Dr. Stephen Hayward",
+      "credit_id": "52fe4e32c3a368484e213be5",
+      "id": 217439,
+      "original_title": "Diagnosis: Murder",
+      "poster_path": "/1KI6KMlxCaNzQMgCJQ6eNJmA2zl.jpg",
+      "release_date": "1976-06-11",
+      "title": "Diagnosis: Murder"
+    },
+    {
+      "adult": false,
+      "character": "Himself",
+      "credit_id": "52fe4e419251416c75150623",
+      "id": 224551,
+      "original_title": "Ein Leben wie im Flug",
+      "poster_path": null,
+      "release_date": "2007-03-15",
+      "title": "Ein Leben wie im Flug"
+    },
+    {
+      "adult": false,
+      "character": "Old Officer Pinkerton",
+      "credit_id": "52fe4e6f9251416c91131795",
+      "id": 253153,
+      "original_title": "The Girl from Nagasaki",
+      "poster_path": "/2XspnwTMavkyJwOvnVPAFQ3bAOH.jpg",
+      "release_date": "2013-11-11",
+      "title": "The Girl from Nagasaki"
+    },
+    {
+      "adult": false,
+      "character": "Auguste",
+      "credit_id": "52fe4eaf9251416c9113a345",
+      "id": 254257,
+      "original_title": "A Song for Tomorrow",
+      "poster_path": "/oCwLgN0qfIhnCxPZ5Nt8sY1HQbg.jpg",
+      "release_date": "1948-06-08",
+      "title": "A Song for Tomorrow"
+    },
+    {
+      "adult": false,
+      "character": "Narrator",
+      "credit_id": "52fe4f0c9251416c7516b7a9",
+      "id": 229979,
+      "original_title": "Necessary Evil: Super-Villains of DC Comics",
+      "poster_path": "/kzmZjtNC2SK61KRYZOEagadeUcT.jpg",
+      "release_date": "2013-10-23",
+      "title": "Necessary Evil: Super-Villains of DC Comics"
+    },
+    {
+      "adult": false,
+      "character": "",
+      "credit_id": "531ae338c3a3685c5100440b",
+      "id": 40789,
+      "original_title": "Journey of Honor",
+      "poster_path": "/jneM3iGQuRADb3hUdya91axJNDt.jpg",
+      "release_date": "1991-04-27",
+      "title": "Journey of Honor"
+    },
+    {
+      "adult": false,
+      "character": "",
+      "credit_id": "533553639251410985001922",
+      "id": 85669,
+      "original_title": "The Keeper",
+      "poster_path": "/b9OhoGYJbG4fHLdJAqNHBKhVTiG.jpg",
+      "release_date": "1976-01-01",
+      "title": "The Keeper"
+    },
+    {
+      "adult": false,
+      "character": "Himself",
+      "credit_id": "5346ae4ec3a3682f190014f5",
+      "id": 264022,
+      "original_title": "In Search of James Bond with Jonathan Ross",
+      "poster_path": null,
+      "release_date": "1995-12-10",
+      "title": "In Search of James Bond with Jonathan Ross"
+    },
+    {
+      "adult": false,
+      "character": "Ling Chu",
+      "credit_id": "534daefcc3a368679500059b",
+      "id": 70028,
+      "original_title": "Edgar Wallace - Das Geheimnis der gelben Narzissen",
+      "poster_path": "/cORsVtjbDLEIy23vK3oNfbQRuYF.jpg",
+      "release_date": "1961-07-20",
+      "title": "The Devil's Daffodil"
+    },
+    {
+      "adult": false,
+      "character": "Commandant Rakov",
+      "credit_id": "53c0c5fc0e0a26158f007e54",
+      "id": 11546,
+      "original_title": "Police Academy: Mission to Moscow",
+      "poster_path": "/kkBhzig2WIZT2adMd5UtybIorSn.jpg",
+      "release_date": "1994-06-09",
+      "title": "Police Academy: Mission to Moscow"
+    },
+    {
+      "adult": false,
+      "character": "Death",
+      "credit_id": "53caa35a0e0a265ded000163",
+      "id": 282808,
+      "original_title": "Welcome to the Discworld",
+      "poster_path": null,
+      "release_date": "1996-12-31",
+      "title": "Welcome to the Discworld"
+    },
+    {
+      "adult": false,
+      "character": "",
+      "credit_id": "53cfbecbc3a368776a007a45",
+      "id": 283348,
+      "original_title": "Fear in the Dark",
+      "poster_path": "/fP1brspubGk59YxJk9gCbO4fsTJ.jpg",
+      "release_date": "1991-10-29",
+      "title": "Fear in the Dark"
+    },
+    {
+      "adult": false,
+      "character": "Prince Baldasar, the Director of Counterintelligence",
+      "credit_id": "53d139abc3a368776a00a570",
+      "id": 157286,
+      "original_title": "The Salamander",
+      "poster_path": "/2MfNJoPJXdOvcdlZgH4MIdvSY0L.jpg",
+      "release_date": "1981-01-01",
+      "title": "The Salamander"
+    },
+    {
+      "adult": false,
+      "character": "Franz Vermes",
+      "credit_id": "53d9ca9cc3a3681ee0000e14",
+      "id": 284464,
+      "original_title": "Port Afrique",
+      "poster_path": "/x5lSUHNbVUNbF4zCgFj8b0kZsbo.jpg",
+      "release_date": "1956-06-18",
+      "title": "Port Afrique"
+    },
+    {
+      "adult": false,
+      "character": "Karlis Zander",
+      "credit_id": "53ed44f50e0a261935000a68",
+      "id": 286838,
+      "original_title": "The Care of Time",
+      "poster_path": null,
+      "release_date": "1990-08-26",
+      "title": "The Care of Time"
+    },
+    {
+      "adult": false,
+      "character": "Georges Seurat",
+      "credit_id": "54127cf70e0a267317000a1c",
+      "id": 10910,
+      "original_title": "Moulin Rouge",
+      "poster_path": "/fcsQietMXEqxyd3t0DQZHIKjkIp.jpg",
+      "release_date": "1952-12-23",
+      "title": "Moulin Rouge"
+    },
+    {
+      "adult": false,
+      "character": "Novak",
+      "credit_id": "532fdf719251413a78004f42",
+      "id": 162040,
+      "original_title": "Too Hot to Handle",
+      "poster_path": "/nFdfhLLVpg6WB41T77Neuaf5sul.jpg",
+      "release_date": "1960-12-01",
+      "title": "Playgirl after Dark"
+    },
+    {
+      "adult": false,
+      "character": "Baron Ferdi von Staub",
+      "credit_id": "54226be6c3a368086e000c7b",
+      "id": 294659,
+      "original_title": "The Devil's Agent",
+      "poster_path": "/9yhZgtfKfdPyujiT3Nf94of8ifM.jpg",
+      "release_date": "1962-09-01",
+      "title": "The Devil's Agent"
+    },
+    {
+      "adult": false,
+      "character": "Willard Hope",
+      "credit_id": "5423a051c3a3680880002c61",
+      "id": 294912,
+      "original_title": "Murder Story",
+      "poster_path": "/jdxeYZbp9Tqtk1jlIfGnZSjS5iz.jpg",
+      "release_date": "1989-09-24",
+      "title": "Murder Story"
+    },
+    {
+      "adult": false,
+      "character": "Lazos",
+      "credit_id": "5446b6920e0a26633600bb9c",
+      "id": 165401,
+      "original_title": "Honeymoon Academy",
+      "poster_path": "/bb0lEIPMaMDPMH0IjP26UYlaDtm.jpg",
+      "release_date": "1990-05-11",
+      "title": "Honeymoon Academy"
+    },
+    {
+      "adult": false,
+      "character": "Count Ludwig Karnstein",
+      "credit_id": "52fe4dd19251416c75141e03",
+      "id": 221767,
+      "original_title": "La cripta e l'incubo",
+      "poster_path": "/zvCp1u4eAIr5tHiGWe9MOlUHzOm.jpg",
+      "release_date": "1964-09-14",
+      "title": "Crypt of the Vampire"
+    },
+    {
+      "adult": false,
+      "character": "Spanish Captain",
+      "credit_id": "54525274c3a3680236006969",
+      "id": 23928,
+      "original_title": "Captain Horatio Hornblower R.N.",
+      "poster_path": "/irPhwl2cPnVsMBiO2YXOZzytYND.jpg",
+      "release_date": "1951-05-21",
+      "title": "Captain Horatio Hornblower R.N."
+    },
+    {
+      "adult": false,
+      "character": "Rameses I",
+      "credit_id": "5471eb35925141118a0001b4",
+      "id": 113612,
+      "original_title": "In the Beginning",
+      "poster_path": "/cfX9B3go55PUiFEpBq5T6jI4ICN.jpg",
+      "release_date": "2000-11-12",
+      "title": "In the Beginning"
+    },
+    {
+      "adult": false,
+      "character": "Bill",
+      "credit_id": "52fe4cea9251416c75129afb",
+      "id": 185752,
+      "original_title": "Albino",
+      "poster_path": "/6QR4Px29EDS5oVdvLRWNSdYgLu2.jpg",
+      "release_date": "1975-12-31",
+      "title": "Albino"
+    },
+    {
+      "adult": false,
+      "character": "Dr. Carl Boxer",
+      "credit_id": "54a59c65c3a3684d8f007e89",
+      "id": 315144,
+      "original_title": "Desperate Moves",
+      "poster_path": null,
+      "release_date": "1981-01-01",
+      "title": "Desperate Moves"
+    },
+    {
+      "adult": false,
+      "character": "Major Schultz",
+      "credit_id": "54d12af4c3a36843180041eb",
+      "id": 84109,
+      "original_title": "Private's Progress",
+      "poster_path": "/sLSFCFMO771zMAjsO4wBsiT2jSg.jpg",
+      "release_date": "1956-02-17",
+      "title": "Private's Progress"
+    },
+    {
+      "adult": false,
+      "character": "narrator/himself",
+      "credit_id": "555f59fcc3a36868f6002d73",
+      "id": 310798,
+      "original_title": "Flesh and Blood: The Hammer Heritage of Horror",
+      "poster_path": "/mZyC3ozqBT2tvB62SbKGWe5MD3d.jpg",
+      "release_date": "1994-08-06",
+      "title": "Flesh and Blood: The Hammer Heritage of Horror"
+    },
+    {
+      "adult": false,
+      "character": "Mr. Bernard",
+      "credit_id": "5575aab9c3a36838d300917c",
+      "id": 343847,
+      "original_title": "Mary Higgins Clark : Double Vision",
+      "poster_path": "/7Z492DR8TmW0jDMf3YArsIhTmhb.jpg",
+      "release_date": "1992-12-02",
+      "title": "Mary Higgins Clark : Double Vision"
+    },
+    {
+      "adult": false,
+      "character": "Harry Cooper",
+      "credit_id": "5579f10ac3a368035b0001fe",
+      "id": 344270,
+      "original_title": "Cross-Roads",
+      "poster_path": "/5n9BH6lkXYKSGTLtUV41AZb8NTt.jpg",
+      "release_date": "1955-02-01",
+      "title": "Cross-Roads"
+    },
+    {
+      "adult": false,
+      "character": "Mephistoles",
+      "credit_id": "52fe4e509251416c75152575",
+      "id": 225029,
+      "original_title": "Sfida al diavolo",
+      "poster_path": "/12AgT0F9QKj68szB7cCnHeZGfaB.jpg",
+      "release_date": "1963-05-28",
+      "title": "Sfida al diavolo"
+    },
+    {
+      "adult": false,
+      "character": "saruman",
+      "credit_id": "5590a994925141338e001613",
+      "id": 122,
+      "original_title": "The Lord of the Rings: The Return of the King",
+      "poster_path": "/50LoR9gJhbWZ5PpoHgi8MNTYgzd.jpg",
+      "release_date": "2003-12-01",
+      "title": "The Lord of the Rings: The Return of the King"
+    },
+    {
+      "adult": false,
+      "character": "The Boss, Mr. President",
+      "credit_id": "5592936f92514152cf000c06",
+      "id": 344227,
+      "original_title": "Angels in Notting Hill",
+      "poster_path": null,
+      "release_date": "2015-10-03",
+      "title": "Angels in Notting Hill"
+    },
+    {
+      "adult": false,
+      "character": "Stratton-Villiers, MI5",
+      "credit_id": "55ba7f86c3a36869b4004210",
+      "id": 3581,
+      "original_title": "Death Line",
+      "poster_path": "/mRsrSIac3leT9kSo5loh0vVHiGf.jpg",
+      "release_date": "1972-01-01",
+      "title": "Death Line"
+    },
+    {
+      "adult": false,
+      "character": "Narrator / Roderick Usher / Frederick (voice)",
+      "credit_id": "54f8de9892514118f0000065",
+      "id": 329020,
+      "original_title": "Extraordinary Tales",
+      "poster_path": "/puLYqJN1Ji5GysVZJJJ0cJc2NDY.jpg",
+      "release_date": "2015-10-23",
+      "title": "Extraordinary Tales"
+    },
+    {
+      "adult": false,
+      "character": "Spear Carrier (uncredited)",
+      "credit_id": "55e52c66c3a368140500113c",
+      "id": 23383,
+      "original_title": "Hamlet",
+      "poster_path": "/uiVgc8bCQm6PvQtGG0G1o41Fg4i.jpg",
+      "release_date": "1948-05-04",
+      "title": "Hamlet"
+    },
+    {
+      "adult": false,
+      "character": "Faraón",
+      "credit_id": "5601c537c3a36855230000d4",
+      "id": 361046,
+      "original_title": "Moisés: Vol. I Los Años del Exilio",
+      "poster_path": "/uOstHASWAspavnlxVHHFAmhJPHp.jpg",
+      "release_date": "1996-09-22",
+      "title": "Moisés: Vol. I Los Años del Exilio"
+    },
+    {
+      "adult": false,
+      "character": "Faraón",
+      "credit_id": "5601e6b192514122c70003c4",
+      "id": 361059,
+      "original_title": "Moisés: Vol. II La Tierra Prometida",
+      "poster_path": "/bJAShwVaqKkDqQeKkIkgbIPY2u3.jpg",
+      "release_date": "1996-09-22",
+      "title": "Moisés: Vol. II La Tierra Prometida"
+    },
+    {
+      "adult": false,
+      "character": "Himself",
+      "credit_id": "562ac64dc3a3681b5c002f54",
+      "id": 365123,
+      "original_title": "Christopher Lee - Gentleman des Grauens",
+      "poster_path": null,
+      "release_date": "2010-10-31",
+      "title": "Christopher Lee - Gentleman des Grauens"
+    },
+    {
+      "adult": false,
+      "character": "Rao-Sahib",
+      "credit_id": "5647a031c3a368260c00484d",
+      "id": 101185,
+      "original_title": "The Far Pavilions",
+      "poster_path": "/28VU5f1k3KaXSPcsuX3LThh2nTx.jpg",
+      "release_date": "1984-04-21",
+      "title": "The Far Pavilions"
+    },
+    {
+      "adult": false,
+      "character": "Gil Rossi",
+      "credit_id": "56841b7392514131df0159e4",
+      "id": 57603,
+      "original_title": "Beyond Mombasa",
+      "poster_path": "/u5ozRQCzFRwsPGYDouKx2Zubwtl.jpg",
+      "release_date": "1956-10-29",
+      "title": "Beyond Mombasa"
+    },
+    {
+      "adult": false,
+      "character": "Himself",
+      "credit_id": "569416f39251417b0e001983",
+      "id": 377107,
+      "original_title": "Face of Unity",
+      "poster_path": null,
+      "release_date": "2014-01-01",
+      "title": "Face of Unity"
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "credit_id": "52fe45ebc3a368484e07688d",
+      "department": "Production",
+      "id": 29596,
+      "job": "Producer",
+      "original_title": "Nothing But the Night",
+      "poster_path": "/wZkTq4HJYpRLlUWcGFGmRqIYaK4.jpg",
+      "release_date": "1973-01-01",
+      "title": "Nothing But the Night"
+    }
+  ],
+  "id": 113
+}
